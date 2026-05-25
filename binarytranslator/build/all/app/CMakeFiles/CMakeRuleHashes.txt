@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+8a15684d837e523cbe08a5c5c5d9be41 CMakeFiles/binarytranslator.desktop
+a30c3018b1f0062cb53add467c23f0b6 po/CMakeFiles/binarytranslator.vboxuser.pot

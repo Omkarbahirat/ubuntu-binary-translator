@@ -1,0 +1,5 @@
+/./manifest.json
+//binarytranslator.apparmor
+//assets/logo.svg
+//qml/Main.qml
+//binarytranslator.desktop

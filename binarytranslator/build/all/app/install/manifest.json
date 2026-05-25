@@ -1,0 +1,15 @@
+{
+    "name": "binarytranslator.vboxuser",
+    "description": "Convert binary to text and vice versa",
+    "architecture": "all",
+    "title": "BinaryTranslator",
+    "hooks": {
+        "binarytranslator": {
+            "apparmor": "binarytranslator.apparmor",
+            "desktop":  "binarytranslator.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "vboxuser <omibahirat2205@gmail.com>",
+    "framework" : "ubuntu-sdk-20.04.1"
+}
